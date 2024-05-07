@@ -3,7 +3,7 @@
 ## Features
 
 - Display a selection of cheeses with pictures, price per kilo, and cheese color.
-- Optional calculator to show the total price based on the selected cheese and weight.
+- Calculator to show the total price based on the selected cheese and weight.
 - Backend API for managing cheese data.
 
 ## PLEASE READ
