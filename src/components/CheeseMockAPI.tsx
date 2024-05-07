@@ -28,7 +28,7 @@ const FetchCheeseData = ({ children }: Props) => {
   const [cheesePrice, setCheesePrice] = useState(4);
   const [cheeseColor, setCheeseColor] = useState<string>("");
   const [cheeseMath, setCheeseMath] = useState<string>("");
-  const [finalprice, setFinalPrice] = useState(1);
+  const [finalprice, setFinalPrice] = useState(1.0);
   const [error, setError] = useState<string | null>(null);
   const [cheeseVisible, setCheeseVisibility] = useState(false);
 
