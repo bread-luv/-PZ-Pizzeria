@@ -6,11 +6,19 @@
 - Calculator to show the total price based on the selected cheese and weight.
 - Backend API for managing cheese data.
 
-## PLEASE READ
-
+# PLEASE READ
 Due to restrictions on web requests from my local machine, a proxy was necessary for the creation of the product.
-To enable the proxy for testing purposes, visit https://cors-anywhere.herokuapp.com/corsdemo.
+To enable the proxy for testing purposes, visit https://cors-anywhere.herokuapp.com/corsdemo. !!!
 Then click to activate it and reload the application
+## To run VIA react NPM
+
+Install NodeJS
+Open VSCode
+In VSCode terminal execute
+`npm install`
+then
+`npm run dev`
+This will load the server on the local server
 
 ## To run VIA docker
 
