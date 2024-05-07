@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 100px;
+  text-align: center;
+  
+}
+ 
+.logo {
+  height: 15em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #64c1ffaa);
+}
+
+
+.textstyler {
+  color: #fcf7ff ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonstyler {
+  background-color: #679289;
+  color: #0f1213;
+  padding: 10px 24px;;
+  font-size: 16px;
+  margin: 4px 12px;
+  transition-duration: 0.4s;
+}
+
+.buttonstyler:hover {
+  background-color: #6A8D92; /* Green */
+  color: #d9e2e6;
+  
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
